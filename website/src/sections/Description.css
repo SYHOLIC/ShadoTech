@@ -1,0 +1,48 @@
+#desc {
+    text-align: center;
+    color: white;
+    margin-bottom: 6.8vh;
+}
+
+.grid {
+    align-items: center;
+    display: grid;
+    gap: 1.5rem;
+    grid-template-columns: repeat(auto-fit, minmax(16.28vw, 1fr));
+    gap: 5rem 2.5rem;
+    margin: 6rem;
+}
+
+.card {
+    background: linear-gradient(to bottom, #023e8a, #000000);
+    height: 15rem;
+    padding: 1.5rem;
+    padding-bottom: 3rem;
+    border-radius: 25px;
+}
+
+h3 {
+    font-size: x-large;
+}
+
+#second {
+    background-color: black;    
+    background-size: 45%;
+    background-repeat: no-repeat;
+    background-position: right;
+    text-align: left;
+    height: 24.5rem;
+    margin: 0 6.5%;
+    width: 86vw;
+    border-radius: 30px;
+}
+
+#second h2 {
+    font-size: 2.5rem;
+    margin: 0;
+}
+
+#second div {
+    padding-left: 3%;
+    padding-top: 7%;
+}

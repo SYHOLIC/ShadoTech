@@ -1,0 +1,23 @@
+#home {
+    background-color: black;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    padding: 3rem 6rem;
+    display: flex;
+    flex-direction: column;
+    height: 80vh;
+}
+
+h1 {
+    display: inline;
+    font-size: 400%;
+    margin-bottom: 1%;
+}
+
+#home p {
+    max-width: 40%;
+    font-size: large;
+    margin-bottom: 4%;
+}
